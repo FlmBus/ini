@@ -1,15 +1,19 @@
 {
-  "name": "retrinko/ini",
+  "name": "flmbus/ini",
   "description": "Library for parsing and writing INI files",
   "type": "library",
   "license": "MIT",
   "keywords": [
-    "ini", "file", "write", "parse", "read"
+    "ini", "file", "write", "parse", "read", "delete"
   ],
   "authors": [
     {
       "name": "Miguel Ángel Graña",
       "email": "miguel.mailbox@gmail.com"
+    },
+    {
+      "name": "Flemming Busman",
+      "email": "flemming.busman@gmail.com"
     }
   ],
   "require": {
