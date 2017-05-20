@@ -1,5 +1,5 @@
 {
-  "name": "FlmBus/ini",
+  "name": "flmbus/ini",
   "description": "Library for parsing and writing INI files",
   "type": "library",
   "license": "MIT",
